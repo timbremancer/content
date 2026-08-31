@@ -1,0 +1,56 @@
+{
+  "catalogVersion": 3,
+  "updatedAt": "2026-08-31",
+  "packs": [
+    {
+      "packId": "karoryfer-black-and-green-guitars",
+      "name": "Black and Green Guitars",
+      "author": "Karoryfer Samples",
+      "description": "Two sampled hollowbody electric guitars with complementary keyswitched articulations.",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Samples recorded by Brian Wood; library published by Karoryfer Samples (Karoryfer Lecolds).",
+      "contentType": "sfz_library",
+      "category": "guitars",
+      "tags": ["guitar", "electric", "hollow-body", "keyswitch", "round-robin"],
+      "artifactFormat": "timbrelibrary",
+      "downloadUrl": "https://github.com/timbremancer/content/releases/download/karoryfer-black-green-v1.000/karoryfer-green-guitar-1.000.timbrelibrary",
+      "downloadSizeBytes": 356012435,
+      "installedSizeBytes": 355801387,
+      "sha256": "2fc4b287e695808754554cf9fd25001c4bcf23026df63d359bbef59a3e833433",
+      "version": "1.000",
+      "sourceRepo": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars",
+      "installSubdir": "guitars/black-and-green-guitars",
+      "instruments": [
+        {
+          "instrumentId": "green-guitar",
+          "name": "Green Guitar",
+          "description": "A green Gretsch Anniversary hollowbody electric guitar with keyswitched twang, staccato, hammer-on, feedback, vibrato, and tailpiece-bend articulations.",
+          "category": "guitars",
+          "tags": ["guitar", "electric", "hollow-body", "keyswitch", "twang", "hammer-on", "feedback"],
+          "artifactFormat": "timbrelibrary",
+          "downloadUrl": "https://github.com/timbremancer/content/releases/download/karoryfer-black-green-v1.000/karoryfer-green-guitar-1.000.timbrelibrary",
+          "downloadSizeBytes": 356012435,
+          "installedSizeBytes": 355801387,
+          "sha256": "2fc4b287e695808754554cf9fd25001c4bcf23026df63d359bbef59a3e833433",
+          "version": "1.000",
+          "installSubdir": "green-guitar"
+        },
+        {
+          "instrumentId": "black-guitar",
+          "name": "Black Guitar",
+          "description": "A black Hofner Club hollowbody electric guitar with keyswitched twang, staccato, behind-the-bridge plucks, feedback, vibrato, and tailpiece-bend articulations.",
+          "category": "guitars",
+          "tags": ["guitar", "electric", "hollow-body", "keyswitch", "twang", "behind-the-bridge", "feedback"],
+          "artifactFormat": "timbrelibrary",
+          "downloadUrl": "https://github.com/timbremancer/content/releases/download/karoryfer-black-green-v1.000/karoryfer-black-guitar-1.000.timbrelibrary",
+          "downloadSizeBytes": 223932214,
+          "installedSizeBytes": 223727393,
+          "sha256": "8d677d4127959c22343a92cb6191ec1192b7d11c848ded85fbc97b16072e2cce",
+          "version": "1.000",
+          "installSubdir": "black-guitar"
+        }
+      ]
+    }
+  ]
+}
